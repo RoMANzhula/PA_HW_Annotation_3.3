@@ -1,4 +1,4 @@
-public class X { //класс с полями помеченными аннотацией
+public class X { // клас із полями поміченими анотацією
     @Save int x = 10;
     @Save int y = 33;
     @Save int z = 123;
